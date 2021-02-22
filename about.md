@@ -6,8 +6,8 @@ permalink: /about/
 
 My name is Kevin Ngo, and this is my personal website.  I'm a curious software
 engineer who specializes in developing smart contracts and decentralized
-applications for the Ethereum blockchain.  I enjoy discussing anything blockchain-related 
-and working through this promising new technology.
+applications for the Ethereum blockchain.  Message me to discuss anything about 
+blockchain, computer science, or WandaVision.
 
 ### Technical skills
 **Blockchain concepts:** Distributed ledgers, consensus mechanisms, mining in
